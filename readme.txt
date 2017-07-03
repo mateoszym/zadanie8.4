@@ -1,13 +1,11 @@
-Zadanie: Pierwszy skrypt
+Teraz juÅ¼ wiesz, jak zadeklarowaÄ‡ zmiennÄ… i przechowywaÄ‡ dane, omÃ³wiliÅ›my teÅ¼ jeden ze sposobÃ³w na pobranie danych od uÅ¼ytkownika strony, a takÅ¼e na wyÅ›wietlenie informacji za pomocÄ… alertu oraz w ulubionym miejscu kaÅ¼dego developera, czyli devTools w zakÅ‚adce konsola.
 
-Teraz ju¿ wiesz, jak zadeklarowaæ zmienn¹ i przechowywaæ dane, omówiliœmy te¿ jeden ze sposobów na pobranie danych od u¿ytkownika strony, a tak¿e na wyœwietlenie informacji za pomoc¹ alertu oraz w ulubionym miejscu ka¿dego developera, czyli devTools w zak³adce konsola.
+Podepnij plik JavaScript o dowolnej nazwie do swojej strony. WyÅ›wietl prompt z zapytaniem o imiÄ™, a nastÄ™pnie wyÅ›wietl je z uÅ¼yciem funkcji alert. MoÅ¼esz skorzystaÄ‡ z kodu dostÄ™pnego w rozdziale. Dodatkowo wyÅ›wietl ten sam tekst w konsoli.
 
-Podepnij plik JavaScript o dowolnej nazwie do swojej strony. Wyœwietl prompt z zapytaniem o imiê, a nastêpnie wyœwietl je z u¿yciem funkcji alert. Mo¿esz skorzystaæ z kodu dostêpnego w rozdziale. Dodatkowo wyœwietl ten sam tekst w konsoli.
+StwÃ³rz przedstawionÄ… strukturÄ™ plikÃ³w. Przyda Ci siÄ™ ona w kolejnych zadaniach.
 
-Stwórz przedstawion¹ strukturê plików. Przyda Ci siê ona w kolejnych zadaniach.
-
-W pliku index.html umieœæ kod zawarty w rozdziale.
-Podobnie powinieneœ post¹piæ z plikiem scripts.js
-Uruchom stronê w przegl¹darce.
-Zainicjuj repozytorium gita w g³ównym folderze projektu.
-Stwórz nowe repozytorium na GitHubie i wyœlij tam swój projekt. Pamiêtaj o udostêpnieniu go mentorowi na GitHubie. Link do projektu wstaw poni¿ej.
+W pliku index.html umieÅ›Ä‡ kod zawarty w rozdziale.
+Podobnie powinieneÅ› postÄ…piÄ‡ z plikiem scripts.js
+Uruchom stronÄ™ w przeglÄ…darce.
+Zainicjuj repozytorium gita w gÅ‚Ã³wnym folderze projektu.
+StwÃ³rz nowe repozytorium na GitHubie i wyÅ›lij tam swÃ³j projekt. PamiÄ™taj o udostÄ™pnieniu go mentorowi na GitHubie. Link do projektu wstaw poniÅ¼ej.
